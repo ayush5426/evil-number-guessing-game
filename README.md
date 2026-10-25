@@ -46,3 +46,7 @@ This project was created to practise Python fundamentals, random number generati
 Note
 
 The computer changing its number when the player guesses correctly is an intentional feature of this troll game—not a bug! 😂😈
+
+⚠️ Warning
+
+May cause frustration, repeated guessing, and angry friends. Play at your own risk! 😂😈
